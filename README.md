@@ -9,6 +9,11 @@
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-646C99.svg?logo=vite)](https://vitejs.dev/)
 
 ---
+> [!NOTE]
+> ### 🎓 Final Year Project (PFE — Projet de Fin d'Études)
+> **Author:** Ala Ayed  
+> **Development:** Built completely **solo as a Full-Stack developer** (Frontend, Backend, Database Architecture & Security) during a **4-month internship**.  
+> **Supervision:** Supervised by **Marketing Puzzle Agency**.
 
 ## 📖 Executive Summary
 
